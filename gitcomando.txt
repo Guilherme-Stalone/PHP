@@ -1,0 +1,7 @@
+git add --all ou nome do arquivo
+
+git commit -m "Mensagem"
+
+git push origin master
+
+git pull origin master
